@@ -6,8 +6,8 @@
 
 ![Actual Vs Strategy Returns Baseline](./Images/Actual_VS_Strategy_Baseline.png)
 
-![Linear Regression Predicted Classification Report](./Images/lr_Pred_Classification_Report.png)
+![Linear Regression Predicted Classification Report](./Images/Lr_Pred_Classification_Report.png)
 
-![Linear Regression Actual Vs Strategy Returns](./Images/Actual_VS_Strategy_lr)
+![Linear Regression Actual Vs Strategy Returns](./Images/Actual_VS_Strategy_lr.png)
 
 
